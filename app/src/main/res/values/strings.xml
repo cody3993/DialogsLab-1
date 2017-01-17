@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Dialogs  Lab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dialog_fire_missiles">Fire Missiles!!</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- buttons -->
+    <string name="launch_fire_missiles">Launch Fire Missiles</string>
+
+    <string name="pick_color">Pick a Color</string>
+    <array name="colors_array">
+        <item name="red">Red</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+    </array>
+    <string name="launch_colors">Launch Colors</string>
+
+    <string name="pick_toppings">Pick Toppings</string>
+    <array name="toppings_array">
+        <item name="pepperoni">Pepperoni</item>
+        <item name="mushrooms">Mushrooms</item>
+        <item name="peppers">Peppers</item>
+    </array>
+    <string name="ok">OK</string>
+
+    <string name="launch_multi_dialog">Launch Multiple Dialog</string>
+
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="signin">Sign In</string>
+    <string name="launch_custom_dialog">Launch Custom Dialog</string>
+
+    <string name="launch_time_dialog">Launch Time Picker Dialog</string>
+
+    <string name="launch_date_dialog">Launch Date Picker Dialog</string>
+
+    <string name="test_notification_title_template">Test: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="test_notification_placeholder_text_template">You said %1$s and lorem ipsum dolor
+        sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel semper
+        venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis. Pellentesque
+        vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper ornare lacus. Duis
+        ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis viverra rhoncus sit amet
+        nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <string name="launch_notification">Launch Notification</string>
+
+</resources>
